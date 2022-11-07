@@ -39,23 +39,26 @@ function App() {
   return (
     <section className="App">
       <div>
-        <button onClick={() => provider.enable()}>
-          connect
-        </button>
-        <button onClick={() => provider.disconnect()}>
-          disconnect
-        </button>
-        <br />
+        <div className="float">
+          <button onClick={() => provider.enable()}>
+            connect
+          </button>
+          <button onClick={() => provider.disconnect()}>
+            disconnect
+          </button>
+          <br />
 
-        <button onClick={() => switchChainId('0x414E')}>
-          switch to AMB
-        </button>
+          <button onClick={() => switchChainId('0x414E')}>
+            switch to AMB
+          </button>
 
-        <br />
+          <br />
 
-        <button onClick={() => switchChainId('0x1')}>
-          switch to ETH
-        </button>
+          <button onClick={() => switchChainId('0x1')}>
+            switch to ETH
+          </button>
+        </div>
+
       </div>
       <div>
         <h4>logs:</h4>
