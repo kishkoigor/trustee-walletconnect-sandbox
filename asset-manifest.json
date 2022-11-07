@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trustee-walletconnect-sandbox/static/css/main.a94d5597.chunk.css",
+    "main.js": "/trustee-walletconnect-sandbox/static/js/main.b2edd1a2.chunk.js",
+    "runtime-main.js": "/trustee-walletconnect-sandbox/static/js/runtime-main.ee85a09f.js",
+    "static/js/2.8ef80bda.chunk.js": "/trustee-walletconnect-sandbox/static/js/2.8ef80bda.chunk.js",
+    "index.html": "/trustee-walletconnect-sandbox/index.html",
+    "static/js/2.8ef80bda.chunk.js.LICENSE.txt": "/trustee-walletconnect-sandbox/static/js/2.8ef80bda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee85a09f.js",
+    "static/js/2.8ef80bda.chunk.js",
+    "static/css/main.a94d5597.chunk.css",
+    "static/js/main.b2edd1a2.chunk.js"
+  ]
+}
